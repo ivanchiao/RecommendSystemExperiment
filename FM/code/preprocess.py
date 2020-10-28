@@ -142,15 +142,6 @@ class Preprocess(object):
         return one_hot
 
     def rating_pro(self):
-
-        rank = [0, 0, 0, 0 ,0]
-
-        for i in self.data['Rating'].to_numpy():
-            rank[i-1] += 1
-
-        for i in rank:
-            print(i)
-
         ratings = self.data['Rating'].to_numpy()
 
         return np.float32(ratings)
