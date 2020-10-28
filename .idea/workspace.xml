@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2872c9ee-472e-4201-a521-e9a17a3630ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jFytu2TVGKtKXeXzwqR8l1gmxZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FM/utility" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LMC_ZC\Desktop\RS_Experiment\FM\utility" />
+      <recent name="C:\Users\LMC_ZC\Desktop\RS_Experiment\FM\code" />
+      <recent name="C:\Users\LMC_ZC\Desktop\RS_Experiment\BPRMF\data" />
+      <recent name="C:\Users\LMC_ZC\Desktop\RS_Experiment\BPRMF\data\raw" />
+      <recent name="C:\Users\LMC_ZC\Desktop\RS_Experiment\BPRMF\utility" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LMC_ZC\Desktop\RS_Experiment\FM\utility" />
+      <recent name="C:\Users\LMC_ZC\Desktop\RS_Experiment\FM\code" />
+      <recent name="C:\Users\LMC_ZC\Desktop\RS_Experiment\FM\data\movielens-1m\raw" />
+      <recent name="C:\Users\LMC_ZC\Desktop\RS_Experiment\LR_GCCF\code" />
+      <recent name="C:\Users\LMC_ZC\Desktop\RS_Experiment\LR_GCCF\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.preprocess">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RS_Experiment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LightGCN/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LightGCN/code/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RS_Experiment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FM/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FM/code/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RS_Experiment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LightGCN/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LightGCN/data/preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RS_Experiment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FM/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FM/code/preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration type="tests" factoryName="py.test">
+      <module name="RS_Experiment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LR_GCCF/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/LR_GCCF/code/main.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in dataset.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="RS_Experiment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FM/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/FM/code/dataset.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.preprocess" />
+        <item itemvalue="Python tests.pytest in dataset.py" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.preprocess (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2872c9ee-472e-4201-a521-e9a17a3630ec" name="Default Changelist" comment="" />
+      <created>1603414352938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603414352938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="249" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603627324439">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="430" y="249" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1603627324439" />
+    <state x="1061" y="381" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603786186908">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1061" y="381" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1603786186908" />
+    <state x="1403" y="502" key="FileChooserDialogImpl" timestamp="1603767889474">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1403" y="502" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1603767889474" />
+    <state width="1307" height="827" key="GridCell.Tab.0.bottom" timestamp="1603890384650">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1307" height="827" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1603890384650" />
+    <state width="1307" height="827" key="GridCell.Tab.0.center" timestamp="1603890384649">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1307" height="827" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1603890384649" />
+    <state width="1307" height="827" key="GridCell.Tab.0.left" timestamp="1603890384649">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1307" height="827" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1603890384649" />
+    <state width="1307" height="827" key="GridCell.Tab.0.right" timestamp="1603890384650">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1307" height="827" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1603890384650" />
+    <state width="1121" height="371" key="GridCell.Tab.1.bottom" timestamp="1603873925558">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1121" height="371" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1603873925558" />
+    <state width="1121" height="371" key="GridCell.Tab.1.center" timestamp="1603873925558">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1121" height="371" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1603873925558" />
+    <state width="1121" height="371" key="GridCell.Tab.1.left" timestamp="1603873925557">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1121" height="371" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1603873925557" />
+    <state width="1121" height="371" key="GridCell.Tab.1.right" timestamp="1603873925558">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1121" height="371" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1603873925558" />
+    <state x="445" y="257" key="SettingsEditor" timestamp="1603627195383">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="445" y="257" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1603627195383" />
+    <state x="845" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603788188691">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="845" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2048.1112@0.0.2048.1112" timestamp="1603788188691" />
+    <state x="538" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1603807883296">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="538" y="246" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1603807883296" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NGCF/code/graph.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LR_GCCF/code/main.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FM/code/session.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
