@@ -28,11 +28,10 @@ class BPRMF(nn.Module):
 
         self.user_embeddings = nn.Embedding(self.n_users, self.n_factors)
         self.item_embeddings = nn.Embedding(self.n_items, self.n_factors)
+        
+        self._init_weight()
 
-    def _init(self):
-        # initial
-        #nn.init.xavier_uniform_(self.user_embeddings.weight)
-        #nn.init.xavier_uniform_(self.item_embeddings.weight)
+    def _init_weight(self):
 
         nn.init.normal_(self.user_embeddings.weight, std=0.01)
         nn.init.normal_(self.item_embeddings.weight, std=0.01)
