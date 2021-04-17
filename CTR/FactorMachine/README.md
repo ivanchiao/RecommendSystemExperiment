@@ -1,7 +1,9 @@
 This is implemented by LMC-ZC.  
 
 You shold first run `preprocess.py` to gain the processed dataset.  
-Then run `main.py` to train and test model. If you want to change the parameters, you can slightly modified the `parser.py`.
+Then run `main.py` to train and test model.  
+If you want to change the parameters, you can slightly modified the `parser.py`.  
+
 training detail are following:
 ```
 (spent time: 16.514949798583984s)
