@@ -1,7 +1,5 @@
 # Recommend-System-Experiment
 
-This is implemented by LMC_ZC  
-
 [2009-UAI] BPR: Bayesian Personalized Ranking from Implicit Feedback  
   
   
