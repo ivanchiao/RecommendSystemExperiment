@@ -45,7 +45,6 @@ class NGCF(nn.Module):
 
         self.decay = args.decay
         self.batch_size = args.batch_size
-        self.decay = args.decay  # l2-norm coefficient
         self.layers = eval(args.layers)
         self.emb_size = args.emb_size
         self.node_dropout = args.node_dropout
